@@ -1,133 +1,193 @@
+<!-- ===================== PROFILE HEADER ===================== -->
+
 <div align="center">
 
-Hi 👋, I'm Niha M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:2563eb&height=210&section=header&text=NIHA%20M&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Niha M profile header" />
 
-B.Tech Artificial Intelligence & Data Science Student | AI • Data • Web Development
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=4F8CFF&center=true&vCenter=true&width=720&lines=AI+%26+Data+Science+Student;Python+%7C+Java+%7C+SQL+%7C+Web+Development;Hackathon+Team+Leader;Building+Practical+%26+User-Friendly+Solutions" alt="Typing introduction" />
 
-I’m a dedicated AI & DS student from Coimbatore who enjoys building practical projects, learning new technologies, and solving problems through code.
+<br />
 
-<p>
-  <a href="https://github.com/niha23032006"><img src="https://img.shields.io/badge/GitHub-niha23032006-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
+<a href="https://github.com/niha23032006">
+  <img src="https://img.shields.io/badge/GitHub-niha23032006-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:nniha8549@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=niha23032006&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-👩‍💻 About Me
+👋 Hello, I'm Niha!
 
-🎓 Pursuing B.Tech in Artificial Intelligence and Data Science at Dhaanish Ahmed Institute of Technology
+B.Tech Artificial Intelligence & Data Science student passionate about technology, problem-solving and building practical software solutions.
 
-📊 Current CGPA: 8.6
+I'm a dedicated student from Coimbatore, Tamil Nadu, with a strong foundation in programming, machine learning, data analytics and software development. I enjoy turning ideas into useful projects, learning new technologies and creating simple, user-friendly experiences.
 
-💻 Interested in Artificial Intelligence, Data Science, Python, Java, SQL and Web Development
+✨ Quick Snapshot
 
-🏆 Team Leader of a 3-member Fake Job Detection hackathon project
 
-🎨 Enjoy creating user-friendly interfaces with Figma
 
-📍 Coimbatore, Tamil Nadu, India
 
-🌱 Currently improving my problem-solving and software development skills
 
-🛠️ Tech Stack
+🎓 Education
+
+B.Tech — Artificial Intelligence & Data Science
+
+🏫 Institute
+
+Dhaanish Ahmed Institute of Technology
+
+📊 CGPA
+
+8.6
+
+🏆 Leadership
+
+Team Leader — 3-member Hackathon Team
+
+💡 Interests
+
+AI • Data Science • Software Development • Web Development
+
+🎨 Design
+
+Figma & User Experience
+
+📍 Location
+
+Coimbatore, Tamil Nadu, India
+
+🧠 Skills & Technologies
 
 Programming & Web
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Python Java C HTML CSS JavaScript" />
 </p>
 
-Tools
+Database, Tools & Design
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,figma" alt="MySQL Git GitHub VS Code IntelliJ Figma" />
 </p>
+
+Core Strengths
+
+OOP Problem Solving Web Development Communication Public Speaking Self-Motivation
 
 🚀 Featured Project
 
+<div align="center">
+
 🔎 Fake Job Detection
 
-A hackathon project focused on identifying potentially fake job opportunities and presenting the result through a user-friendly interface.
+Hackathon Project • March 2026
+
+</div>
+
+A practical project focused on Fake Job Detection, developed as a hackathon project with an emphasis on usability and a user-friendly interface.
+
+My contribution:
 
 👥 Led a 3-member team
 
 🎨 Designed the UI using Figma
 
-📱 Focused on usability and responsive design
+🧩 Focused on a clear and user-friendly experience
 
-🧠 Built as part of a hackathon project in March 2026
+🌐 Worked on a practical web-based project concept
 
-Add the exact GitHub repository link here once the project repository is finalized.
+Tip: Replace the button below with the actual repository URL once your project repository is finalized.
+
+<p align="center">
+  <a href="https://github.com/niha23032006?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+</p>
 
 🏆 Achievements & Training
 
-Team Leader – Fake Job Detection Hackathon — March 2026
+🥇 Team Leader — Fake Job Detection Hackathon — March 2026
 
-Java Bootcamp (DAIT) — 15-day training in Java and OOP, February 2025
+☕ Java Bootcamp — DAIT — 15-day training in Java & OOP — February 2025
 
-Yuvaasoft Technologies Pvt. Ltd. — 24-hour Hackathon
+⚡ Yuvaasoft Technologies Pvt. Ltd. — 24-Hour Hackathon
 
-Smart Phone Servicing & Troubleshooting — Training
+🔧 Smart Phone Servicing & Troubleshooting — Training
 
-R-Talks at AIC RAISE
+🎤 R-Talks at AIC RAISE
 
-Smart Factory 4.0 — Workshop
+🏭 Smart Factory 4.0 — Workshop
 
-Dhruva 2026 — Workshop
+📚 Dhruva 2026 — Workshop
 
-📈 GitHub Stats
+📈 GitHub Activity — Live
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niha23032006&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Niha's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niha23032006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=niha23032006&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" height="170" alt="GitHub statistics" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niha23032006&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=niha23032006&hide_border=true&theme=transparent" height="180" alt="GitHub contribution streak" />
+
+</div>
+
+🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=niha23032006&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4" alt="GitHub trophies" />
+
+</div>
+
+📊 Contribution Graph — Live
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niha23032006&bg_color=00000000&color=64748b&line=2563eb&point=312e81&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+
+</div>
+
+🎯 What I'm Working Towards
+
+💻 Strengthening Python, Java and SQL
+
+🧠 Building more practical AI & Data Science projects
+
+🧩 Improving problem-solving and software development skills
+
+🌐 Growing my web development skills
+
+🤝 Contributing consistently to collaborative projects
+
+🚀 Preparing for opportunities where I can apply my technical knowledge
+
+🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/niha23032006">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:nniha8549@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+📧 nniha8549@gmail.com
+📍 Coimbatore, Tamil Nadu, India
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=niha23032006&theme=tokyonight&hide_border=true" alt="GitHub streak">
+💙 Thanks for visiting my profile!
 
-</div>
-
-📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niha23032006&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph">
-
-</div>
-
-🎯 Current Goals
-
-Strengthen Python, Java and SQL skills
-
-Build more practical AI & Data Science projects
-
-Improve DSA and problem-solving skills
-
-Contribute consistently to GitHub
-
-Grow as a software/AI developer
-
-🌐 Connect With Me
-
-<p>
-  📧 <strong>Email:</strong> nniha8549@gmail.com<br>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/niha23032006">github.com/niha23032006</a><br>
-</p>
-
-<div align="center">
-
-✨ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:312e81,100:0f172a&height=110&section=footer" width="100%" alt="Profile footer" />
 
 </div>
