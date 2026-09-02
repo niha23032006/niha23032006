@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,30:2563EB,65:DB2777,100:F472B6&height=280&section=header&text=NIHA%20M&fontSize=82&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=65&descSize=23&animation=twinkling" width="100%" alt="Niha M colorful GitHub header" />
+<img src="./assets/niha-3d-wave.svg" width="100%" alt="Purple blue pink 3D neon wave background" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=27&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+%7C+Java+%7C+SQL+%7C+Web+Development;Hackathon+Team+Leader;Building+Practical+%26+User-Friendly+Solutions" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=27&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+%7C+Java+%7C+SQL+%7C+Web+Development;Hackathon+Team+Leader;Building+Practical+%26+User-Friendly+Solutions" alt="Animated introduction" />
 
 <br><br>
 
@@ -14,12 +14,14 @@
 
 </div>
 
-<br>
+<p align="center"><b>💜 💙 💗 NEON • AI • DATA • WEB • DESIGN 💗 💙 💜</b></p>
+
+<p align="center"><img src="./assets/niha-wave-divider.svg" width="100%" alt="Purple blue pink neon wave" /></p>
 
 <!-- ==================== ABOUT ==================== -->
 
-<table width="100%" border="3" cellpadding="24" cellspacing="0" bordercolor="#7C3AED">
-<tr><td bgcolor="#F3E8FF">
+<table width="100%" border="3" cellpadding="24" cellspacing="0" bordercolor="#8B5CF6">
+<tr><td bgcolor="#E9D5FF">
 
 <h1 align="center">💜✨ ABOUT ME ✨💜</h1>
 
@@ -34,10 +36,12 @@
 
 <br>
 
+<p align="center"><img src="./assets/niha-wave-divider.svg" width="100%" alt="3D neon wave divider" /></p>
+
 <!-- ==================== QUICK SNAPSHOT - FULL WIDTH ==================== -->
 
-<table width="100%" border="4" cellpadding="26" cellspacing="0" bordercolor="#2563EB">
-<tr><td bgcolor="#E0F2FE">
+<table width="100%" border="4" cellpadding="26" cellspacing="0" bordercolor="#3B82F6">
+<tr><td bgcolor="#DBEAFE">
 
 <h1 align="center">💙🌈 QUICK SNAPSHOT 🌈💙</h1>
 <p align="center"><font size="4"><b>A quick look at my academic profile, strengths and development focus</b></font></p>
@@ -78,9 +82,11 @@
 
 <br>
 
+<p align="center"><img src="./assets/niha-wave-divider.svg" width="100%" alt="3D neon wave divider" /></p>
+
 <!-- ==================== TECH STACK ==================== -->
 
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#DB2777">
+<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#F472B6">
 <tr><td bgcolor="#FCE7F3">
 
 <h1 align="center">💗⚡ TECH STACK ⚡💗</h1>
@@ -130,10 +136,12 @@
 
 <br>
 
+<p align="center"><img src="./assets/niha-wave-divider.svg" width="100%" alt="3D neon wave divider" /></p>
+
 <!-- ==================== FEATURED PROJECT ==================== -->
 
 <table width="100%" border="4" cellpadding="26" cellspacing="0" bordercolor="#8B5CF6">
-<tr><td bgcolor="#EDE9FE">
+<tr><td bgcolor="#E9D5FF">
 
 <h1 align="center">💜🚀 FEATURED PROJECT 🚀💜</h1>
 
@@ -165,126 +173,8 @@
 
 <h2>✨ WHAT I CONTRIBUTED</h2>
 <table width="100%" cellpadding="14" cellspacing="6">
-<tr><td bgcolor="#F3E8FF"><font size="4">👥 <b>Team Leadership</b> — Led a 3-member hackathon team.</font></td></tr>
+<tr><td bgcolor="#E9D5FF"><font size="4">👥 <b>Team Leadership</b> — Led a 3-member hackathon team.</font></td></tr>
 <tr><td bgcolor="#DBEAFE"><font size="4">🎨 <b>UI Design</b> — Designed the interface using Figma.</font></td></tr>
 <tr><td bgcolor="#FCE7F3"><font size="4">💡 <b>User Experience</b> — Focused on a clear, friendly and easy-to-use experience.</font></td></tr>
-<tr><td bgcolor="#EDE9FE"><font size="4">🌐 <b>Practical Development</b> — Worked on a web-based project concept during the hackathon.</font></td></tr>
+<tr><td bgcolor="#E9D5FF"><font size="4">🌐 <b>Practical Development</b> — Worked on a web-based project concept during the hackathon.</font></td></tr>
 </table>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/niha23032006?tab=repositories"><img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PROJECTS-6D28D9?style=for-the-badge&labelColor=DB2777" /></a>
-</p>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%" border="2" cellpadding="18" cellspacing="8" bordercolor="#C4B5FD">
-<tr>
-<td width="33%" bgcolor="#FFFFFF" align="center"><h2>👑 LEADERSHIP</h2><font size="4"><b>3-member</b><br>Team Leader</font></td>
-<td width="33%" bgcolor="#FFFFFF" align="center"><h2>🎨 DESIGN</h2><font size="4"><b>Figma</b><br>UI / UX Focus</font></td>
-<td width="33%" bgcolor="#FFFFFF" align="center"><h2>📅 TIMELINE</h2><font size="4"><b>March 2026</b><br>Hackathon</font></td>
-</tr>
-</table>
-
-</td></tr>
-</table>
-
-<br>
-
-<!-- ==================== ACHIEVEMENTS ==================== -->
-
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#F472B6">
-<tr><td bgcolor="#FFF1F2">
-<h1 align="center">🏆💖 ACHIEVEMENTS &amp; TRAINING 💖🏆</h1>
-<table width="100%" cellpadding="14" cellspacing="7">
-<tr><td bgcolor="#FFFFFF"><font size="4">🥇 <b>Team Leader — Fake Job Detection Hackathon</b> — March 2026</font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">☕ <b>Java Bootcamp — DAIT</b> — 15-day training in Java &amp; OOP — February 2025</font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">⚡ <b>Yuvaasoft Technologies Pvt. Ltd.</b> — 24-Hour Hackathon</font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">🔧 <b>Smart Phone Servicing &amp; Troubleshooting</b> — Training</font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">🎤 <b>R-Talks at AIC RAISE</b></font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">🏭 <b>Smart Factory 4.0</b> — Workshop</font></td></tr>
-<tr><td bgcolor="#FFFFFF"><font size="4">📚 <b>Dhruva 2026</b> — Workshop</font></td></tr>
-</table>
-</td></tr>
-</table>
-
-<br>
-
-<!-- ==================== LIVE GITHUB ==================== -->
-
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#2563EB">
-<tr><td bgcolor="#EFF6FF">
-<h1 align="center">💙📊 GITHUB LIVE STATS 📊💙</h1>
-<p align="center"><font size="4"><b>Automatically updated from my GitHub activity</b></font></p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niha23032006&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_color=7C3AED&title_color=DB2777&icon_color=2563EB&text_color=374151&bg_color=FFFFFF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niha23032006&layout=compact&langs_count=8&hide_border=false&border_color=DB2777&title_color=6D28D9&text_color=374151&bg_color=FFFFFF" width="49%" />
-</p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=niha23032006&hide_border=false&border=2563EB&ring=DB2777&fire=F472B6&currStreakLabel=6D28D9&sideLabels=2563EB&dates=6B7280&background=FFFFFF" width="82%" /></p>
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#7C3AED">
-<tr><td bgcolor="#F5F3FF">
-<h1 align="center">🏅💜 GITHUB TROPHIES 💜🏅</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=niha23032006&theme=algolia&no-frame=false&margin-w=10&margin-h=10&column=4" width="95%" /></p>
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#EC4899">
-<tr><td bgcolor="#FFF1F2">
-<h1 align="center">🌈📈 CONTRIBUTION ACTIVITY 📈🌈</h1>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=niha23032006&bg_color=FFFFFF&color=7C3AED&line=DB2777&point=2563EB&area_color=DDD6FE&area=true&hide_border=false&border_color=F472B6" width="96%" /></p>
-</td></tr>
-</table>
-
-<br>
-
-<!-- ==================== GOALS ==================== -->
-
-<table width="100%" border="4" cellpadding="24" cellspacing="0" bordercolor="#8B5CF6">
-<tr><td bgcolor="#F5F3FF">
-<h1 align="center">🎯💜 MY DEVELOPMENT FOCUS 💜🎯</h1>
-<table width="100%" cellpadding="18" cellspacing="8">
-<tr>
-<td width="50%" bgcolor="#FFFFFF" align="center"><h2>🐍 PYTHON</h2><font size="4">Strengthen programming &amp; AI skills</font></td>
-<td width="50%" bgcolor="#FFFFFF" align="center"><h2>☕ JAVA</h2><font size="4">Improve OOP &amp; problem solving</font></td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#FFFFFF" align="center"><h2>🗄️ SQL</h2><font size="4">Build strong database skills</font></td>
-<td width="50%" bgcolor="#FFFFFF" align="center"><h2>🤖 AI &amp; DATA SCIENCE</h2><font size="4">Build practical projects</font></td>
-</tr>
-</table>
-</td></tr>
-</table>
-
-<br>
-
-<!-- ==================== CONNECT ==================== -->
-
-<table width="100%" border="4" cellpadding="26" cellspacing="0" bordercolor="#2563EB">
-<tr><td bgcolor="#EFF6FF">
-<h1 align="center">💙💗 LET'S CONNECT 💗💙</h1>
-<p align="center">
-<a href="https://github.com/niha23032006"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:nniha8549@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<p align="center"><font size="5"><b>📧 nniha8549@gmail.com</b></font><br><font size="4">📍 Coimbatore, Tamil Nadu, India</font></p>
-</td></tr>
-</table>
-
-<br>
-
-<div align="center">
-<h1>✨💜 THANK YOU FOR VISITING MY PROFILE 💜✨</h1>
-<p><font size="5"><b>⭐ Explore my repositories • Follow my journey • Let's build something great!</b></font></p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:7C3AED,70:DB2777,100:F472B6&height=170&section=footer" width="100%" />
-</div>
